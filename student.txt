@@ -1,0 +1,7 @@
+name grade P/F
+Kim 4 P
+Park 4 P
+Lee 3 P
+Choi 3 F
+Jung 2 F
+Hong 2 P
